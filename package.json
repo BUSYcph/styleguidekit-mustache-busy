@@ -1,0 +1,19 @@
+{
+  "name": "@busycph/styleguidekit-mustache-busy",
+  "description": "BUSY edition of Mustache-based StyleguideKit for Pattern Lab. Contains styles and mark-up for Pattern Lab's front-end.",
+  "version": "0.1.0",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BUSYcph/styleguidekit-mustache-busy.git"
+  },
+  "bugs": "https://github.com/BUSYcph/styleguidekit-mustache-busy/issues",
+  "authors": [
+    {
+      "name": "Brian Frisch",
+      "email": "brian@busycph.dk",
+      "homepage": "https://busycph.dk"
+    }
+  ],
+  "license": "MIT"
+}

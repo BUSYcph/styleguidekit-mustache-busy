@@ -1,0 +1,26 @@
+<!-- View All Patterns in a Pattern Sub-Type -->
+<div class="pl-c-main">
+
+    <div class="pl-c-brand">
+        <div class="pl-c-brand__logo">
+            <img src="../../images/pl-brand-logo.png" alt="" />
+        </div>
+      
+        <div class="pl-c-brand__title">Design System</div>
+    </div>
+  
+	<!-- Index of Patterns -->
+	<div class="pl-c-pattern-index">
+	
+		{{# partials }}
+			{{# patternSectionSubtype }}
+			{{> patternSectionSubtype }}
+			{{/ patternSectionSubtype }}
+			{{^ patternSectionSubtype }}
+			{{> patternSection }}
+			{{/ patternSectionSubtype }}
+		{{/ partials }}
+
+  </div><!--end pl-c-pattern-index-->
+
+</div><!--end pl-c-main-->
