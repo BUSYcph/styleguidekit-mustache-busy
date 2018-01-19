@@ -1,7 +1,7 @@
 {
   "name": "@busycph/styleguidekit-mustache-busy",
   "description": "BUSY edition of Mustache-based StyleguideKit for Pattern Lab. Contains styles and mark-up for Pattern Lab's front-end.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {},
   "repository": {
     "type": "git",
